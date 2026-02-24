@@ -189,5 +189,5 @@ These scripts correspond to the training implementations in:
 
 ## Contact
 
-Maintainer: (fill in)
+Maintainer: 
 - Name: Jongmin Yeom / AISEE Lab / Email: yeom.jongmin@gmail.com
